@@ -1,7 +1,6 @@
 # Github-stats
-### Hi there I'm Yash👋
+### Hi, I'm Sanju👋
 
-- :zap: I love programming, problem solving, and poetry.
 - 👨‍🎓 I’m a Btech student at Indian Institute of Information Technology,Sri City.
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/sanju-sabu-9a757a203/)
